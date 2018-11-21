@@ -1,7 +1,7 @@
 from wave_helper import *
 import numpy
 import math
-
+"""jjn"""
 '''the max/min value that a wav format can get in audio list'''
 MAX_VOL = 32767
 MIN_VOL = -32768
